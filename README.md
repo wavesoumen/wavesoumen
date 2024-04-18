@@ -2,7 +2,9 @@
 
 This is,
 # SOUMEN KAYAL🙋‍♂️
-Computer Science Engineer 🚀🧑‍💻
+Computer Science Engineer 🚀🧑‍💻 </s>
+
+Ex-Intern in [MOCERO HEALTH SOLUTIONS](https://mocerohealth.com/) & [PERSISTENT SYSTEMS](https://www.persistent.com/)
 ##### 
 Have a look on [Portfolio:](https://wavesoumen.github.io/) https://wavesoumen.github.io/ 
 ## 🛠 Interests & Works on,
